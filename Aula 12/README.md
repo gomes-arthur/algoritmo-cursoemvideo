@@ -83,7 +83,7 @@
     - Escopo (local ou global)
         - Local onde determinada variável vai funcionar
         
-        ![teste-de-escopo.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b51eaed-3fd5-4888-a0a1-8b7ef7651b45/teste-de-escopo.png)
+        ![teste-de-escopo.png](https://media.discordapp.net/attachments/964170366694076490/964170517630308512/teste-de-escopo.png?width=808&height=643)
         
         - Variável de escopo GLOBAL funcionando dentro de um procedimento com variável de escopo LOCAL
         
